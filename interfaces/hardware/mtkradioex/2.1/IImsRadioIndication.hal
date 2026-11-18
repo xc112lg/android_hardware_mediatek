@@ -1,4 +1,0 @@
-package vendor.mediatek.hardware.mtkradioex@2.1;
-
-import android.hardware.radio@1.0::RadioIndicationType;
-

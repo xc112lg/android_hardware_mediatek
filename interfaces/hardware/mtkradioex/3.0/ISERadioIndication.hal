@@ -1,3 +1,0 @@
-package vendor.mediatek.hardware.mtkradioex@3.0;
-
-interface ISERadioIndication {};
