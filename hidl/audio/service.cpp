@@ -162,8 +162,6 @@ int main(int /* argc */, char* /* argv */[]) {
         },
         {
             "Bluetooth Audio API",
-            "vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory",
-            "vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory",
         }
     };
 

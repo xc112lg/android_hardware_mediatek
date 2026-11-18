@@ -18,7 +18,6 @@ cc_library_shared {
         "liblog",
         "libfmq",
         "android.hardware.bluetooth.audio-impl",
-        "vendor.mediatek.hardware.bluetooth.audio@2.1",
-        "vendor.mediatek.hardware.bluetooth.audio@2.2",
+
     ],
 }
